@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/yasserg/crawler4j.svg?branch=master)](https://travis-ci.org/yasserg/crawler4j)
 ![Maven Central](https://img.shields.io/maven-central/v/edu.uci.ics/crawler4j.svg?style=flat-square)
 [![Gitter Chat](http://img.shields.io/badge/chat-online-brightgreen.svg)](https://gitter.im/crawler4j/Lobby)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FYunlong-He%2Fcrawler4j.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FYunlong-He%2Fcrawler4j?ref=badge_shield)
 
 crawler4j is an open source web crawler for Java which provides a simple interface for
 crawling the Web. Using it, you can setup a multi-threaded web crawler in few minutes.
@@ -273,3 +274,6 @@ crawlConfig.setUserAgentString(userAgentString);
 Copyright (c) 2010-2017 Yasser Ganjisaffar
 
 Published under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0), see LICENSE
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FYunlong-He%2Fcrawler4j.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FYunlong-He%2Fcrawler4j?ref=badge_large)
